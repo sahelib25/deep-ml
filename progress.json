@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T08:19:51.238Z",
+  "generated_at": "2026-09-21T08:19:52.817Z",
   "items": {
     "problem:417": {
       "kind": "problem",
@@ -26,6 +26,32 @@
       "last_pushed_at": "2026-08-11T01:12:18.816Z",
       "language": "python",
       "lines": 27
+    },
+    "problem:94": {
+      "kind": "problem",
+      "id": "94",
+      "title": "Implement Multi-Head Attention",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/94",
+      "path": "problems/0094-implement-multi-head-attention",
+      "first_solved_at": "2026-08-12T16:32:34.877Z",
+      "last_pushed_at": "2026-08-12T16:32:34.877Z",
+      "language": "python",
+      "lines": 88
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-08-12T17:05:14.412Z",
+      "last_pushed_at": "2026-08-12T17:05:14.412Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
