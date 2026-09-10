@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T08:19:57.720Z",
+  "generated_at": "2026-09-21T08:19:59.276Z",
   "items": {
     "problem:417": {
       "kind": "problem",
@@ -117,6 +117,58 @@
       "last_pushed_at": "2026-09-08T16:48:15.038Z",
       "language": "python",
       "lines": 98
+    },
+    "problem:880": {
+      "kind": "problem",
+      "id": "880",
+      "title": "Create a Float Tensor from a Python List",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/880",
+      "path": "problems/0880-create-a-float-tensor-from-a-python-list",
+      "first_solved_at": "2026-09-10T15:21:19.865Z",
+      "last_pushed_at": "2026-09-10T15:21:19.865Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:881": {
+      "kind": "problem",
+      "id": "881",
+      "title": "Reshape and Transpose a Tensor",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/881",
+      "path": "problems/0881-reshape-and-transpose-a-tensor",
+      "first_solved_at": "2026-09-10T15:24:23.528Z",
+      "last_pushed_at": "2026-09-10T15:24:23.528Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:882": {
+      "kind": "problem",
+      "id": "882",
+      "title": "Add a Bias Vector to a Batch via Broadcasting",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/882",
+      "path": "problems/0882-add-a-bias-vector-to-a-batch-via-broadcasting",
+      "first_solved_at": "2026-09-10T15:28:59.305Z",
+      "last_pushed_at": "2026-09-10T15:28:59.305Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:883": {
+      "kind": "problem",
+      "id": "883",
+      "title": "Implement a Linear Layer Forward Pass with Matrix Multiplication",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/883",
+      "path": "problems/0883-implement-a-linear-layer-forward-pass-with-matrix-multiplication",
+      "first_solved_at": "2026-09-10T15:31:59.755Z",
+      "last_pushed_at": "2026-09-10T15:31:59.755Z",
+      "language": "python",
+      "lines": 7
     }
   }
 }
