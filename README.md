@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**13** solved · 13 problems · 0 labs · 0 math
+**14** solved · 14 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Add a Bias Vector to a Batch via Broadcasting](https://www.deep-ml.com/problems/882) | easy | 2026-09-10 | [solution](problems/0882-add-a-bias-vector-to-a-batch-via-broadcasting) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-08-16 | [solution](problems/0004-calculate-mean-by-row-or-column) |
+| [Compute a Gradient with PyTorch Autograd](https://www.deep-ml.com/problems/884) | easy | 2026-09-11 | [solution](problems/0884-compute-a-gradient-with-pytorch-autograd) |
 | [Compute Arithmetic Intensity and Classify Bottleneck](https://www.deep-ml.com/problems/414) | easy | 2026-08-11 | [solution](problems/0414-compute-arithmetic-intensity-and-classify-bottleneck) |
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-09-10 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
 | [Implement a Linear Layer Forward Pass with Matrix Multiplication](https://www.deep-ml.com/problems/883) | easy | 2026-09-10 | [solution](problems/0883-implement-a-linear-layer-forward-pass-with-matrix-multiplication) |
